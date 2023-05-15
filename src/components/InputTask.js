@@ -9,6 +9,7 @@ const options = [
     { key: "relax", text: "Relax", value: "relax" },
     { key: "social", text: "Social", value: "social" },
     { key: "compras", text: "Compras", value: "compras" },
+    { key: "github", text: "Github", value: "github" },
     { key: "otra", text: "Otra", value: "otra" }
 
 ];
